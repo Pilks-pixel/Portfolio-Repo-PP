@@ -1,0 +1,16 @@
+body {
+    background-color: dimgrey;
+}
+
+h1 {
+    color: darkgray;
+    text-shadow: black;
+}
+
+.headings {
+    color: rgb(160, 124, 98);
+}
+
+.picBorder {
+    border: 2px solid darkgray;
+}
